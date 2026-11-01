@@ -1,0 +1,6 @@
+{
+  "name": "আল-কোরআন বাংলা",
+  "description": "সম্পূর্ণ অফলাইন আল-কোরআন (আরবি উসমানী লিপি ও বাংলা অনুবাদ) - ১১৪টি সূরা, ৬,২৩৬টি আয়াত, বুকমার্ক ও অনুসন্ধান সহ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

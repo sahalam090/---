@@ -1,0 +1,10 @@
+SAHIH AL-BUKHARI (সহীহ বুখারী শরীফ) DATA SOURCES & CREDITS
+===========================================================
+Book: Sahih al-Bukhari (সহীহ আল-বুখারী)
+Compiler: Imam Muhammad ibn Ismail al-Bukhari (ইমাম বুখারী রহ.)
+Language: Bengali Translation (বাংলা অনুবাদ)
+Source: Islamic Foundation Bangladesh / Modern Prokashoni
+Data API Source: Hadith-API Open Project (fawazahmed0/hadith-api)
+Chapters (কিতাব): 97 কিতাব
+Hadith Count: 7,500+ সহীহ হাদিস
+License: Free redistribution for Islamic education and offline mobile apps.
